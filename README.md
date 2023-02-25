@@ -11,7 +11,7 @@ Pada *project* ini dilakukan suatu proses pada dataset meliputi:
 
 Model *machine learning* dengan nilai accuracy terbaik akan dipilih sebagai model terbaik.
 
-## Tools : Visual Code Studio, Google Colabs
+## Tools : Visual Studio Code, Google Colabs
 
 ## Programming Language : Python
 
